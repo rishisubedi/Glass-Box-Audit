@@ -1,0 +1,8 @@
+# Core Audit Logic
+# In a real scenario, this would include torch, transformers, etc.
+# For this demo version:
+dataclasses>=0.6
+typing-extensions>=4.0.0
+
+# Dev / Testing
+pytest>=7.0.0
