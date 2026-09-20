@@ -1,0 +1,14 @@
+{
+  "forbidden_terms_low_risk": [
+    "crypto",
+    "leverage",
+    "100x",
+    "options",
+    "margin"
+  ],
+  "mandatory_warnings": {
+    "investment": "capital at risk",
+    "crypto": "unregulated asset",
+    "loan": "your home may be repossessed"
+  }
+}
